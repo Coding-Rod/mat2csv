@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.AlexMI \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.AlexMI.html#moabb.datasets.AlexMI",
+    "Enlace": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.AlexMI.html#moabb.datasets.AlexMI",
+    "Tipo de Experimento": "EEG",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "512",
+    "Number of subjects": "8",
+    "Experiment time": "3 s",
+    "Size": null,
+    "Number of files": null,
+    "Readme (Y/N)": null,
+    "Year": null,
+    "How to download": null,
+    "Author name": "Alexandre Barachant",
+    "Contact": null
+}

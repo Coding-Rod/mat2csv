@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.bi2013a \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.bi2013a.html#moabb.datasets.bi2013a",
+    "Enlace": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.bi2013a.html#moabb.datasets.bi2013a",
+    "Tipo de Experimento": "P300",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "512",
+    "Number of subjects": "24",
+    "Experiment time": null,
+    "Size": null,
+    "Number of files": null,
+    "Readme (Y/N)": null,
+    "Year": null,
+    "How to download": null,
+    "Author name": "Alexandre Barachant",
+    "Contact": null
+}

@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.BNCI2014001 \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.BNCI2014001.html#moabb.datasets.BNCI2014001",
+    "Enlace": "http://bnci-horizon-2020.eu/database/data-sets",
+    "Tipo de Experimento": "EEG",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "250",
+    "Number of subjects": "9",
+    "Experiment time": "6 s",
+    "Size": "745 MB",
+    "Number of files": 19.0,
+    "Readme (Y/N)": "Y",
+    "Year": 2014.0,
+    "How to download": "Open access",
+    "Author name": "Clemens Brunner",
+    "Contact": "clemens.brunner@tugraz.at"
+}

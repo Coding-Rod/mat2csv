@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.Zhou2016 \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.Zhou2016.html#moabb.datasets.Zhou2016",
+    "Enlace": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.Zhou2016.html#moabb.datasets.Zhou2016",
+    "Tipo de Experimento": "EEG",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": null,
+    "Number of subjects": "4",
+    "Experiment time": "10 s",
+    "Size": null,
+    "Number of files": null,
+    "Readme (Y/N)": null,
+    "Year": null,
+    "How to download": null,
+    "Author name": "Xiaopei Wu",
+    "Contact": "wxp2001@ahu.edu.cn"
+}

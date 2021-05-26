@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.PhysionetMI \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.PhysionetMI.html#moabb.datasets.PhysionetMI",
+    "Enlace": "https://physionet.org/content/eegmmidb/1.0.0/",
+    "Tipo de Experimento": "EEG",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": null,
+    "Number of subjects": "109",
+    "Experiment time": "3 min",
+    "Size": "1,4 GB",
+    "Number of files": 166.0,
+    "Readme (Y/N)": "Y",
+    "Year": 2009.0,
+    "How to download": "Open access",
+    "Author name": "Alexandre Barachant",
+    "Contact": "schalk@wadsworth.org"
+}

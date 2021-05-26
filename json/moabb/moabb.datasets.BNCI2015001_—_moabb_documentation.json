@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.BNCI2015001 \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.BNCI2015001.html#moabb.datasets.BNCI2015001",
+    "Enlace": "http://bnci-horizon-2020.eu/database/data-sets",
+    "Tipo de Experimento": "EEG",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "512",
+    "Number of subjects": "12",
+    "Experiment time": "11 s",
+    "Size": "1,8 GB",
+    "Number of files": 29.0,
+    "Readme (Y/N)": "Y",
+    "Year": 2015.0,
+    "How to download": "Open access",
+    "Author name": "Reinhold Scherer",
+    "Contact": "reinhold.scherer@tugraz.at"
+}

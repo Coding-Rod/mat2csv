@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.EPFLP300 \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.EPFLP300.html#moabb.datasets.EPFLP300",
+    "Enlace": "https://www.epfl.ch/labs/mmspg/research/page-58317-en-html/bci-2/bci_datasets/",
+    "Tipo de Experimento": "P300",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "2048",
+    "Number of subjects": "9 (5 disabled)",
+    "Experiment time": "1 min",
+    "Size": "2.2 GB",
+    "Number of files": 8.0,
+    "Readme (Y/N)": "Y",
+    "Year": 2006.0,
+    "How to download": "Open access",
+    "Author name": "Ulrich Hoffmann",
+    "Contact": "ulrich.hoffmann@epfl.ch"
+}

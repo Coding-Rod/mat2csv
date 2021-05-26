@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.MunichMI \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.MunichMI.html#moabb.datasets.MunichMI",
+    "Enlace": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.MunichMI.html#moabb.datasets.MunichMI",
+    "Tipo de Experimento": "EEG",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "500",
+    "Number of subjects": "10",
+    "Experiment time": "10 s",
+    "Size": null,
+    "Number of files": null,
+    "Readme (Y/N)": null,
+    "Year": null,
+    "How to download": null,
+    "Author name": "Alexandre Barachant",
+    "Contact": null
+}

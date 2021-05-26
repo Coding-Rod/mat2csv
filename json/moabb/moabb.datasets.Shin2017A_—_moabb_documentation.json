@@ -1,0 +1,17 @@
+{
+    "Nombre": "moabb.datasets.Shin2017A \u2014 moabb documentation",
+    "Informacion adicional": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.Shin2017A.html#moabb.datasets.Shin2017A",
+    "Enlace": "http://moabb.neurotechx.com/docs/generated/moabb.datasets.Shin2017A.html#moabb.datasets.Shin2017A",
+    "Tipo de Experimento": "EEG/NIRS",
+    "Detalles (Tipo de tarea (Pensar arriba, pensar mover pie, pensar mover mano), Electrodos - Que electrodos, Canales - numero de electrodos, Protocolo (Graz), tipo de sujetos)": null,
+    "Sampling frequency [Hz]": "1000",
+    "Number of subjects": "29",
+    "Experiment time": "Diverse",
+    "Size": null,
+    "Number of files": null,
+    "Readme (Y/N)": null,
+    "Year": null,
+    "How to download": null,
+    "Author name": "Alexandre Barachant",
+    "Contact": null
+}
